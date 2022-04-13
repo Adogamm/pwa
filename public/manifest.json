@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "categories": [ "lifestyke", "music"],
+  "description": "Aplicación Final para la materia de PWA",
+  "dir": "ltr",
+  "display_override": ["standalone","fullscreen"],
+  "display": "standalone",
+  "lang": "es-MX",
+  "name": "PWA Proyecto Final",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "scope": "/",
+  "short_name": "PWA",
+  "start_url": "/",
+  "theme_color": "purple"
+}
